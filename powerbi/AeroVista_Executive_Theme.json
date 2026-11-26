@@ -1,0 +1,29 @@
+{
+  "name": "AeroVista Executive",
+  "dataColors": ["#168C8C", "#102A43", "#D4A72C", "#4F6D7A", "#7EB6B6", "#C84C4C", "#8D99AE", "#5C677D"],
+  "background": "#F5F7FA",
+  "foreground": "#102A43",
+  "tableAccent": "#168C8C",
+  "good": "#2E8B57",
+  "neutral": "#D4A72C",
+  "bad": "#C84C4C",
+  "minimum": "#E8F3F3",
+  "center": "#D4A72C",
+  "maximum": "#102A43",
+  "textClasses": {
+    "callout": {"fontFace": "Segoe UI Semibold", "fontSize": 26, "color": "#102A43"},
+    "title": {"fontFace": "Segoe UI Semibold", "fontSize": 13, "color": "#102A43"},
+    "header": {"fontFace": "Segoe UI Semibold", "fontSize": 11, "color": "#102A43"},
+    "label": {"fontFace": "Segoe UI", "fontSize": 10, "color": "#4F6D7A"}
+  },
+  "visualStyles": {
+    "*": {"*": {
+      "background": [{"show": true, "color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}],
+      "border": [{"show": true, "color": {"solid": {"color": "#D9E2EC"}}, "radius": 8}],
+      "visualHeader": [{"show": false}],
+      "title": [{"show": true, "fontFamily": "Segoe UI Semibold", "fontSize": 13, "fontColor": {"solid": {"color": "#102A43"}}, "alignment": "left"}]
+    }},
+    "card": {"*": {"labels": [{"fontFamily": "Segoe UI Semibold", "fontSize": 25, "color": {"solid": {"color": "#102A43"}}}], "categoryLabels": [{"fontSize": 10, "color": {"solid": {"color": "#627D98"}}}]}},
+    "slicer": {"*": {"background": [{"color": {"solid": {"color": "#FFFFFF"}}}], "header": [{"fontColor": {"solid": {"color": "#102A43"}}, "textSize": 10}]}}
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "raw_rows": 50220,
+  "clean_flights": 50000,
+  "completed_flights": 49583,
+  "total_revenue_usd": 2294745785.91,
+  "operating_profit_usd": 344702925.09,
+  "operating_margin_pct": 15.02,
+  "on_time_performance_pct": 70.65,
+  "cancellation_rate_pct": 0.83,
+  "average_load_factor_pct": 82.82,
+  "average_satisfaction": 4.55,
+  "revenue_growth_pct": 19.1,
+  "top_profit_route": "BAH\u2013LHR",
+  "worst_delay_condition": "Fog / High congestion"
+}

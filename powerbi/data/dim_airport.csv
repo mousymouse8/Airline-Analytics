@@ -1,0 +1,13 @@
+airport_code,city,country,region
+BAH,Manama,Bahrain,GCC
+BOM,Mumbai,India,South Asia
+CAI,Cairo,Egypt,MENA
+CDG,Paris,France,Europe
+DOH,Doha,Qatar,GCC
+DXB,Dubai,UAE,GCC
+IST,Istanbul,Türkiye,Europe
+JED,Jeddah,Saudi Arabia,GCC
+KWI,Kuwait City,Kuwait,GCC
+LHR,London,United Kingdom,Europe
+MCT,Muscat,Oman,GCC
+RUH,Riyadh,Saudi Arabia,GCC

@@ -1,0 +1,7 @@
+aircraft_type,seat_capacity
+A320neo,180
+A321neo,220
+A350-900,315
+B737 MAX 8,178
+B787-9,290
+Unknown,315
