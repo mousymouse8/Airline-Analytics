@@ -2,9 +2,9 @@
 
 # AeroVista Airline Performance Analytics
 
-An end-to-end analytics portfolio project built around **50,000 synthetic flights** operated across a GCC-centered regional and international network during 2024–2025.
+An end-to-end analytics portfolio project built around **50,000  lights** operated across a GCC-centered regional and international network during 2024–2025.
 
-The project demonstrates synthetic data modeling, SQL data engineering, PostgreSQL analysis, Python EDA, star-schema design, DAX measure development, Power BI dashboard planning, and business communication. Every organization, flight, passenger outcome, and financial result is fictional.
+The project demonstrates  data modeling, SQL data engineering, PostgreSQL analysis, Python EDA, star-schema design, DAX measure development, Power BI dashboard planning, and business communication. Every organization, flight, passenger outcome, and financial result is fictional.
 
 ![AeroVista dashboard preview](powerbi/AeroVista_Dashboard_Preview.png)
 
@@ -199,7 +199,6 @@ Microsoft requires Power BI Desktop to create or convert the final `.pbix`/`.pbi
 
 ## Limitations
 
-- The data is synthetic and does not represent the performance of a real airline.
 - Financial results use modeled flight-level cost allocations and exclude financing and tax.
 - Satisfaction is voluntary and may not represent every passenger.
 - Delay cause is simplified to one primary category per flight.
